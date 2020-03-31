@@ -1,0 +1,14 @@
+/* the text of the top label */
+"Authorisation" = "Авторизация";
+
+/* the title of the error messageBox */
+"Error" = "Ошибка";
+
+/* the password placeholder text */
+"input password.." = "введите пароль";
+
+/* the title of the login button  */
+"login" = "Войти";
+
+/* the text of the error messageBox */
+"login or password did not entered" = "Не введен логин или пароль";
