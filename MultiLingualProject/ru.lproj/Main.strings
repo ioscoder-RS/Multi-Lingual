@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "label"; ObjectID = "2Zg-j1-2Ab"; */
+"2Zg-j1-2Ab.text" = "label";
+
+/* Class = "UITextField"; placeholder = "input login..."; ObjectID = "4tY-xz-lL7"; */
+"4tY-xz-lL7.placeholder" = "введите логин";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ger-9W-qVh"; */
+"Ger-9W-qVh.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Now We Are Here !"; ObjectID = "zrG-d2-C90"; */
+"zrG-d2-C90.text" = "Мы пришли сюда!";
